@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="fg_system_title">Системные настройки</string>
+  <string name="fg_system_summary">Подключение и дополнительные параметры</string>
+  <string name="fg_system_intro">Для обычной переписки ничего менять здесь не нужно.</string>
+  <string name="fg_advanced_title">Дополнительные настройки клиента</string>
+  <string name="fg_advanced_summary">Оформление, поведение и расширенные возможности</string>
+  <string name="fg_advanced_neko">Другие параметры клиента</string>
+  <string name="fg_plugins_simple_summary">Python, документы и другие дополнения</string>
+</resources>
